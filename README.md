@@ -1,2 +1,2 @@
 # Quiz
-A short quiz in python
+A short quiz I wrote in python
