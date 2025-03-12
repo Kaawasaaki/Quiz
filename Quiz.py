@@ -57,7 +57,13 @@ if answer.lower() == "blackbird":
     score += 1
 else:
     print("Wrong!!")
-    
+
+answer = input("What is the full form of HTTP")
+if answer.lower() == "hyper text transfer protocol":
+    score += 1
+    print("DING DING DING!")
+else:
+    print("Wrong!!")
     
 print("You have scored: ", score)
 print("You have scored: " + str((score/6) * 100) + "%")
