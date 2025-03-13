@@ -64,7 +64,15 @@ if answer.lower() == "hyper text transfer protocol":
     print("DING DING DING!")
 else:
     print("Wrong!!")
-    
+
+answer = input("Which of these is compiled into bytecode: Python or C++")
+if answer.lower() == "python":
+    print("DING DING DING")
+    score += 1
+else:
+    print("Bruh Read a Book")
+
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/6) * 100) + "%")
 
