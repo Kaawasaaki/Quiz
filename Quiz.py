@@ -73,6 +73,14 @@ else:
     print("Bruh Read a Book")
 
 
+answer = input("what data type is used to store integers in C/C++ :")
+if answer.lower() == "int":
+    print("DING DING DING")
+    score += 1
+else:
+    print("Bruh Read a Book")
+
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/6) * 100) + "%")
 
