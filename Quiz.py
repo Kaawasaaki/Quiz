@@ -80,8 +80,14 @@ if answer.lower() == "int":
 else:
     print("Bruh Read a Book")
 
+answer = input("whos the president of the United States?: ")
+if answer.lower() == "donald trump"
+    print("DING DING DING")
+else:
+print("Read a book bruh")
+
 
 print("You have scored: ", score)
-print("You have scored: " + str((score/6) * 100) + "%")
+print("You have scored: " + str((score/10) * 100) + "%")
 
     
