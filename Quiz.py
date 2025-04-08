@@ -82,12 +82,19 @@ else:
 
 answer = input("whos the president of the United States?: ")
 if answer.lower() == "donald trump"
+    score +=  1
     print("DING DING DING")
 else:
 print("Read a book bruh")
 
+answer = input("Whats the capital of china?")
+if answer.lower() = "beijing"
+    print("DING DING DING!!")
+    score += 1
+else:
+    print("Read a book bruh")
 
 print("You have scored: ", score)
-print("You have scored: " + str((score/10) * 100) + "%")
+print("You have scored: " + str((score/11) * 100) + "%")
 
     
