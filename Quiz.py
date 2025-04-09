@@ -94,7 +94,14 @@ if answer.lower() = "beijing"
 else:
     print("Read a book bruh")
 
+answer = input("Which is better : cheese popcorn or caramel popcorn")
+if answer.lower() = "cheese popcorn"
+    print("DING DING DING!!")
+    score += 1
+else:
+    print("You just have bad taste lol")
+
 print("You have scored: ", score)
-print("You have scored: " + str((score/11) * 100) + "%")
+print("You have scored: " + str((score/12) * 100) + "%")
 
     
