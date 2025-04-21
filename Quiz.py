@@ -108,6 +108,6 @@ else:
     print("read a book bruh")
 
 print("You have scored: ", score)
-print("You have scored: " + str((score/12) * 100) + "%")
+print("You have scored: " + str((score/13) * 100) + "%")
 
     
