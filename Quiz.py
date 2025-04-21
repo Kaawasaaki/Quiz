@@ -101,6 +101,12 @@ if answer.lower() = "cheese popcorn"
 else:
     print("You just have bad taste lol")
 
+answer = input("Who wont the 2022 world cup: "
+if answer.lower() = "argentina"
+    print("DINGDINGDING")
+else:
+    print("read a book bruh")
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/12) * 100) + "%")
 
