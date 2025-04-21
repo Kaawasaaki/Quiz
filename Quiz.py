@@ -101,8 +101,14 @@ if answer.lower() = "cheese popcorn"
 else:
     print("You just have bad taste lol")
 
-answer = input("Who wont the 2022 world cup: "
+answer = input("Who won the 2022 world cup: ")
 if answer.lower() = "argentina"
+    print("DINGDINGDING")
+else:
+    print("read a book bruh")
+
+answer = input("what is the name of the java interpreter ")
+if answer.lower() = "jvm"
     print("DINGDINGDING")
 else:
     print("read a book bruh")
