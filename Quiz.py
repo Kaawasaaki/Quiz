@@ -113,7 +113,12 @@ if answer.lower() = "jvm"
 else:
     print("read a book bruh")
 
+answer = input("Who was the leader of nazi Germany?")
+if answer.lower = "adolf hitler":
+    print("DING DING DING")
+else:
+    print("Wrong!!")
 print("You have scored: ", score)
-print("You have scored: " + str((score/14) * 100) + "%")
+print("You have scored: " + str((score/15) * 100) + "%")
 
     
