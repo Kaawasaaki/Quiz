@@ -110,6 +110,7 @@ else:
 answer = input("what is the name of the java interpreter ")
 if answer.lower() = "jvm"
     print("DINGDINGDING")
+    score += 1
 else:
     print("read a book bruh")
 
