@@ -116,6 +116,7 @@ else:
 answer = input("Who was the leader of nazi Germany?")
 if answer.lower = "adolf hitler":
     print("DING DING DING")
+    score += 1
 else:
     print("Wrong!!")
 
