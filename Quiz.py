@@ -118,6 +118,9 @@ if answer.lower = "adolf hitler":
     print("DING DING DING")
 else:
     print("Wrong!!")
+
+answer = input("What is Tail of an aerplane called?")
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/15) * 100) + "%")
 
