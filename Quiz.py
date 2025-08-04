@@ -120,6 +120,10 @@ else:
     print("Wrong!!")
 
 answer = input("What is Tail of an aerplane called?")
+if answer.lower() = "vertical stabilizer"
+    score += 1
+else:
+    print("wrong!!")
 
 print("You have scored: ", score)
 print("You have scored: " + str((score/15) * 100) + "%")
