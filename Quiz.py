@@ -103,6 +103,7 @@ else:
 
 answer = input("Who won the 2022 world cup: ")
 if answer.lower() = "argentina"
+    score += 1
     print("DINGDINGDING")
 else:
     print("read a book bruh")
