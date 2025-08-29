@@ -128,6 +128,11 @@ if answer.lower() = "vertical stabilizer"
 else:
     print("wrong!!")
 
+answer = input("Full form of GAN")
+if answer.lower() == "generative adviseral network":
+    print("Corrext")
+    score += 1
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/16) * 100) + "%")
 
