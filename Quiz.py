@@ -134,6 +134,6 @@ if answer.lower() == "generative adviseral network":
     score += 1
 
 print("You have scored: ", score)
-print("You have scored: " + str((score/16) * 100) + "%")
+print("You have scored: " + str((score/17) * 100) + "%")
 
     
