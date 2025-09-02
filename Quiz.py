@@ -133,6 +133,11 @@ if answer.lower() == "generative adviseral network":
     print("Corrext")
     score += 1
 
+answer = input("Fastest Interceptor aircraft?")
+if answer.lower() == 'mig-25 foxbat':
+    print("DING DING DING")
+
+
 print("You have scored: ", score)
 print("You have scored: " + str((score/17) * 100) + "%")
 
