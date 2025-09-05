@@ -136,6 +136,7 @@ if answer.lower() == "generative adviseral network":
 answer = input("Fastest Interceptor aircraft?")
 if answer.lower() == 'mig-25 foxbat':
     print("DING DING DING")
+    score += 1
 else:
     print("Read a book")
 
