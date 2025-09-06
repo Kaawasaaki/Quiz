@@ -140,6 +140,13 @@ if answer.lower() == 'mig-25 foxbat':
 else:
     print("Read a book")
 
+answer = input("what is the tail of aeroplanes called?")
+if answer.lower() == 'vertical stabilizer':
+    print("DING DING DING")
+    score += 1
+else:
+    print("Read a book")
+
 
 print("You have scored: ", score)
 print("You have scored: " + str((score/18) * 100) + "%")
